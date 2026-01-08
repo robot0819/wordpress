@@ -11,7 +11,9 @@
  * 权限优化：自动处理 www-data 用户组权限，确保后台插件/主题安装无阻。
 🛠 一键部署指令
 在你的 Ubuntu 服务器终端执行以下命令（建议在 root 权限下执行）：
-curl -sSO https://raw.githubusercontent.com/robot0819/wordpress/refs/heads/main/ubuntu.sh && sudo bash ubuntu.sh
+
+`‌curl -sSO https://raw.githubusercontent.com/robot0819/wordpress/refs/heads/main/ubuntu.sh && sudo bash ubuntu.sh`
+
 
 📖 部署前准备
  * 系统要求：建议使用全新的 Ubuntu 20.04 或 22.04/24.04 系统。
