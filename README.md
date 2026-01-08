@@ -12,7 +12,9 @@
 🛠 一键部署指令
 在你的 Ubuntu 服务器终端执行以下命令（建议在 root 权限下执行）：
 
-`‌curl -sSO https://raw.githubusercontent.com/robot0819/wordpress/refs/heads/main/ubuntu.sh && sudo bash ubuntu.sh`
+```
+‌curl -sSO https://raw.githubusercontent.com/robot0819/wordpress/refs/heads/main/ubuntu.sh && sudo bash ubuntu.sh
+```
 
 
 📖 部署前准备
